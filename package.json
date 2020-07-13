@@ -1,6 +1,6 @@
 {
   "name": "@ionic/swiftlint-config",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "SwiftLint config for Ionic and Capacitor",
   "main": "index.js",
   "repository": {
