@@ -1,4 +1,7 @@
 module.exports = {
+  excluded: [
+    'node_modules',
+  ],
   opt_in_rules: [
     'implicitly_unwrapped_optional',
     'file_name_no_space',
