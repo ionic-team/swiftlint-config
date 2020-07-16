@@ -13,4 +13,7 @@ module.exports = {
     'unowned_variable_capture',
     'unused_import',
   ],
+  opt_out_rules: [
+    'weak_delegate',
+  ],
 };
