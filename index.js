@@ -13,11 +13,11 @@ module.exports = {
     'unowned_variable_capture',
     'unused_import',
   ],
-  line_length: [
-  	'warning': 150,
-  	'ignores_function_declarations': true,
-  	'ignores_comments': true,
-  	'ignores_interpolated_strings': true,
-  	'ignores_urls': true,
-  ],
+  line_length: {
+    'warning': 150,
+    'ignores_function_declarations': true,
+    'ignores_comments': true,
+    'ignores_interpolated_strings': true,
+    'ignores_urls': true,
+  },
 };
