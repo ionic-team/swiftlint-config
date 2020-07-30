@@ -3,10 +3,11 @@ module.exports = {
     'node_modules',
   ],
   opt_in_rules: [
-    'implicitly_unwrapped_optional',
     'file_name_no_space',
     'force_unwrapping',
     'function_default_parameter_at_end',
+    'implicitly_unwrapped_optional',
+    'indentation_width',
     'lower_acl_than_parent',
     'modifier_order',
     'overridden_super_call',
