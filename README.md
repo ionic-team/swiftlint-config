@@ -14,5 +14,5 @@ Shared SwiftLint config used in Ionic and Capacitor projects.
 1. Add the following to `package.json`:
 
     ```
-    "swiftlint": "@ionic/swiftlint-config",
+    "swiftlint": "node-swiftlint",
     ```
