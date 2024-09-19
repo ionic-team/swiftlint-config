@@ -1,7 +1,8 @@
 module.exports = {
   excluded: [
-    'node_modules',
-    'ios/Pods',
+    '${PWD}/node_modules',
+    '${PWD}/ios/Pods',
+    '${PWD}/example-app',
   ],
   opt_in_rules: [
     'implicitly_unwrapped_optional',
